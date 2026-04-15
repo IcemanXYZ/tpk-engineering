@@ -49,7 +49,7 @@ export const caseStudies: CaseStudy[] = [
     challenge:
       "Innscor's distribution division was operating 11 different trailer configurations across its cold chain, making parts management complex and driver training inconsistent. Multiple refrigeration brands created a specialist technician shortage. A food safety audit flagged temperature excursion risks from aging door seals and inadequate evaporator capacity.",
     solution:
-      'TPK specified a single standard reefer configuration across the fleet: 13.4 m GRP/aluminium body, Thermo King T-1200R with DataLogic HACCP recorder, dual-temperature capability, and remote GSM temperature monitoring. TPK also supplied a master spare parts kit and conducted a two-day maintenance training program for Innscor's workshop team.',
+      "TPK specified a single standard reefer configuration across the fleet: 13.4 m GRP/aluminium body, Thermo King T-1200R with DataLogic HACCP recorder, dual-temperature capability, and remote GSM temperature monitoring. TPK also supplied a master spare parts kit and conducted a two-day maintenance training program for Innscor's workshop team.",
     results: [
       { label: 'Trailers Standardised', value: '34', unit: 'units' },
       { label: 'Refrigerant Consumption', value: '18', unit: '% reduction' },
@@ -80,7 +80,7 @@ export const caseStudies: CaseStudy[] = [
     industry: 'agriculture',
     heroImage: 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=1200&q=80',
     summary:
-      'A 25-unit flatbed fleet built for the punishing roads of Zimbabwe's tobacco heartland — with a local service agreement that kept 98% trailer availability during the critical 10-week selling season.',
+      "A 25-unit flatbed fleet built for the punishing roads of Zimbabwe's tobacco heartland — with a local service agreement that kept 98% trailer availability during the critical 10-week selling season.",
     challenge:
       "The cooperative needed trailers capable of operating on C-class and D-class roads between farms and auction floors, while meeting ZINARA roadworthy requirements at weigh bridges. Previous fleet showed chronic suspension and deck cracking issues from overloading on poor surfaces.",
     solution:

@@ -6,7 +6,7 @@ export const products: Product[] = [
     slug: 'flatbed-trailers',
     name: 'Flatbed Trailers',
     category: 'flatbed',
-    tagline: 'Maximum versatility, engineered for Africa's roads',
+    tagline: "Maximum versatility, engineered for Africa's roads",
     description:
       'TPK flatbed trailers are built from high-tensile steel with hot-dip galvanised sub-frames. Suitable for general freight, steel coils, machinery and containerised cargo. Available in standard, extendable and drop-side configurations.',
     heroImage: 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=1200&q=80',
@@ -120,7 +120,7 @@ export const products: Product[] = [
     category: 'refrigerated',
     tagline: 'Cold chain integrity from farm to fork',
     description:
-      'Designed for temperature-sensitive cargo in sub-Saharan Africa's demanding climate. High-density polyurethane insulated panels, Thermo King or Carrier refrigeration units, and pharmaceutical-grade temperature logging.',
+      "Designed for temperature-sensitive cargo in sub-Saharan Africa's demanding climate. High-density polyurethane insulated panels, Thermo King or Carrier refrigeration units, and pharmaceutical-grade temperature logging.",
     heroImage: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=75',
@@ -325,7 +325,7 @@ export const products: Product[] = [
     category: 'side-tipper',
     tagline: 'High-cycle efficiency for mining operations',
     description:
-      'Designed with input from Zimbabwe and Zambia's major mining houses, our side-tippers achieve cycle times under 90 seconds. Body geometry optimised for complete self-cleaning without manual intervention.',
+      "Designed with input from Zimbabwe and Zambia's major mining houses, our side-tippers achieve cycle times under 90 seconds. Body geometry optimised for complete self-cleaning without manual intervention.",
     heroImage: 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=1200&q=80',
     gallery: [],
     specifications: {
